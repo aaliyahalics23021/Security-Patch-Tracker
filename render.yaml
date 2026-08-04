@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: security-patch-tracker
+    runtime: static
+    buildCommand: npm run build
+    publishPath: dist
+    headers:
+      - key: X-Frame-Options
+        value: DENY
+      - key: X-Content-Type-Options
+        value: nosniff
+      - key: Permissions-Policy
+        value: interest-cohort=()
