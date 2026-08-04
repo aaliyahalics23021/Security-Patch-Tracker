@@ -1,6 +1,7 @@
 services:
-  - type: static
+  - type: web
     name: security-patch-tracker
+    runtime: static
     buildCommand: npm run build
     staticPublishPath: dist
     headers:
