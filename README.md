@@ -87,9 +87,9 @@ Organizes vulnerabilities according to their remediation progress and patching w
 
 ---
 
-## 📊 Security Posture Report
+## 📋 Vulnerability Findings Ledger
 
-Generates an overview of the organization's vulnerability and patch compliance status.
+A searchable and filterable table for viewing vulnerabilities, affected assets, severity levels, CVSS scores, and current patch status.
 
 ![Security Posture Report](screenshot/09-security-posture-report.png)
 
