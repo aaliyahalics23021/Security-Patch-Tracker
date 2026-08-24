@@ -30,7 +30,7 @@ The platform provides an interactive interface for vulnerability analysis, verif
 
 The main entry point of SVPT, introducing the platform and providing access to the security dashboard.
 
-![SVPT Landing Page](screenshot/01-landing-page (2).png)
+![SVPT Landing Page](screenshot/01-landing-page-spt.png)
 
 ---
 
