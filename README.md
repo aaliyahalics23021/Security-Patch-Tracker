@@ -26,10 +26,6 @@ The platform provides an interactive interface for vulnerability analysis, verif
 
 # 📸 Application Screenshots
 
-> Create a folder named **`screenshot`** in your repository and upload the images using the filenames shown below.
-
----
-
 ## 🏠 Landing Page
 
 The main entry point of SVPT, introducing the platform and providing access to the security dashboard.
@@ -165,61 +161,6 @@ Generate Reports & Audit Logs
 | Browser Support | Autoprefixer |
 | Version Control | Git & GitHub |
 | Deployment      | Render       |
-
----
-
-# 📁 Screenshot Folder Structure
-
-Create the folder:
-
-```text
-screenshot/
-```
-
-Upload your screenshots using these exact names:
-
-```text
-screenshot/
-├── 01-landing-page.png
-├── 02-security-access-console.png
-├── 03-security-dashboard.png
-├── 04-patch-verification.png
-├── 05-vulnerability-details.png
-├── 06-cve-education-dashboard.png
-├── 07-patch-orchestration.png
-├── 08-vulnerability-findings.png
-├── 09-security-posture-report.png
-├── 10-asset-exposure-workbench.png
-├── 11-asset-exposure-matrix.png
-├── 12-network-topology.png
-├── 13-vulnerability-scanner.png
-└── 14-security-audit-logs.png
-```
-
-The paths in this README are already connected to these filenames. For example:
-
-```md
-![Security Operations Dashboard](screenshot/03-security-dashboard.png)
-```
-
----
-
-# 🎯 Project Objective
-
-SVPT was developed to provide a centralized and interactive platform for organizing vulnerability information, monitoring patch status, and improving visibility into security-related activities.
-
-The project demonstrates the application of modern frontend development and software engineering practices to a cybersecurity-focused monitoring problem.
-
----
-
-# 🚀 Project Links
-
-**GitHub Repository:** https://github.com/aaliyahalics23021/Security-Patch-Tracker
-
-**Live Application:** https://security-patch-tracker.onrender.com/
-
----
-
 # ⚠️ Disclaimer
 
 This project is intended for **educational and demonstration purposes**. The application uses simulated security data and workflows to demonstrate vulnerability tracking, patch management, scanning, reporting, and audit concepts.
