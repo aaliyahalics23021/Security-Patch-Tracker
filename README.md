@@ -75,20 +75,13 @@ Displays detailed information about a selected vulnerability, including risk inf
 Provides additional information to help users understand vulnerabilities, risk, assessment, and mitigation concepts.
 
 ![CVE Education Dashboard](screenshot/06-cve-education-dashboard.png)
+![Patch Orchestration Board](screenshot/07-patch-orchestration.png)
 
 ---
 
 ## 🛠️ Patch Orchestration Board
 
 Organizes vulnerabilities according to their remediation progress and patching workflow.
-
-![Patch Orchestration Board](screenshot/07-patch-orchestration.png)
-
----
-
-## 📋 Vulnerability Findings Ledger
-
-A searchable and filterable table for viewing vulnerabilities, affected assets, severity levels, CVSS scores, and current patch status.
 
 ![Vulnerability Findings Ledger](screenshot/08-vulnerability-findings.png)
 
